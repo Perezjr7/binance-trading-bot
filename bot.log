@@ -1,0 +1,62 @@
+2025-06-15 20:57:48,188 - INFO - Connected to Binance Futures Testnet
+2025-06-15 20:58:22,651 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-15 21:07:56,725 - INFO - Connected to Binance Futures Testnet
+2025-06-15 21:08:19,760 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-15 21:08:42,115 - ERROR - Unexpected error: could not convert string to float: ''
+2025-06-15 21:08:52,531 - ERROR - Unexpected error: could not convert string to float: ''
+2025-06-15 21:08:59,402 - ERROR - Unexpected error: could not convert string to float: ''
+2025-06-15 21:09:16,531 - ERROR - Unexpected error: 
+2025-06-15 21:10:01,983 - ERROR - Unexpected error: 
+2025-06-15 21:10:03,557 - ERROR - Unexpected error: 
+2025-06-15 21:10:03,975 - ERROR - Unexpected error: 
+2025-06-15 21:10:04,364 - ERROR - Unexpected error: 
+2025-06-15 21:10:04,707 - ERROR - Unexpected error: 
+2025-06-15 21:10:05,237 - ERROR - Unexpected error: 
+2025-06-15 21:10:16,634 - ERROR - Unexpected error: 
+2025-06-15 21:10:19,210 - ERROR - Unexpected error: 
+2025-06-15 21:11:01,344 - ERROR - Unexpected error: 
+2025-06-15 21:11:01,515 - ERROR - Unexpected error: 
+2025-06-15 21:11:01,639 - ERROR - Unexpected error: 
+2025-06-15 21:11:01,794 - ERROR - Unexpected error: 
+2025-06-15 21:11:01,919 - ERROR - Unexpected error: 
+2025-06-15 21:11:02,059 - ERROR - Unexpected error: 
+2025-06-15 21:11:02,213 - ERROR - Unexpected error: 
+2025-06-15 21:11:02,338 - ERROR - Unexpected error: 
+2025-06-15 21:11:02,494 - ERROR - Unexpected error: 
+2025-06-15 21:11:02,633 - ERROR - Unexpected error: 
+2025-06-15 21:11:02,804 - ERROR - Unexpected error: 
+2025-06-15 21:11:02,960 - ERROR - Unexpected error: 
+2025-06-15 21:11:03,115 - ERROR - Unexpected error: 
+2025-06-15 21:11:03,285 - ERROR - Unexpected error: 
+2025-06-15 21:11:03,426 - ERROR - Unexpected error: 
+2025-06-15 21:11:03,939 - ERROR - Unexpected error: 
+2025-06-15 21:11:04,063 - ERROR - Unexpected error: 
+2025-06-15 21:11:04,204 - ERROR - Unexpected error: 
+2025-06-15 21:11:04,329 - ERROR - Unexpected error: 
+2025-06-15 21:11:04,437 - ERROR - Unexpected error: 
+2025-06-15 21:11:04,561 - ERROR - Unexpected error: 
+2025-06-15 21:11:04,669 - ERROR - Unexpected error: 
+2025-06-15 21:11:04,793 - ERROR - Unexpected error: 
+2025-06-15 21:11:04,933 - ERROR - Unexpected error: 
+2025-06-15 21:11:05,058 - ERROR - Unexpected error: 
+2025-06-15 21:11:05,196 - ERROR - Unexpected error: 
+2025-06-15 21:11:05,320 - ERROR - Unexpected error: 
+2025-06-15 21:11:05,428 - ERROR - Unexpected error: 
+2025-06-15 21:11:05,552 - ERROR - Unexpected error: 
+2025-06-15 21:11:05,692 - ERROR - Unexpected error: 
+2025-06-15 21:11:05,816 - ERROR - Unexpected error: 
+2025-06-15 21:11:05,924 - ERROR - Unexpected error: 
+2025-06-15 21:11:06,049 - ERROR - Unexpected error: 
+2025-06-15 21:11:06,189 - ERROR - Unexpected error: 
+2025-06-15 21:11:06,314 - ERROR - Unexpected error: 
+2025-06-15 21:11:06,439 - ERROR - Unexpected error: 
+2025-06-15 21:11:06,549 - ERROR - Unexpected error: 
+2025-06-15 21:28:02,473 - INFO - Connected to Binance Futures Testnet
+2025-06-15 21:28:36,268 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-15 21:35:54,948 - ERROR - Unexpected error: 
+2025-06-15 21:42:11,512 - INFO - Connected to Binance Futures Testnet
+2025-06-15 21:42:35,688 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-15 21:47:47,844 - INFO - Connected to Binance Futures Testnet
+2025-06-15 21:48:07,068 - INFO - Order placed: {'orderId': 4532624271, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ41869b306bd0b5c53a545c', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750004288624}
+2025-06-15 21:56:22,732 - ERROR - Unexpected error: 
+2025-06-15 21:56:23,838 - ERROR - Unexpected error: 
