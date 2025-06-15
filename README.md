@@ -28,10 +28,11 @@ pip install python-binance
 
 #### 🪟 For Windows (Anaconda Prompt):
 
+```
 set BINANCE_API_KEY=your_api_key
 
 set BINANCE_API_SECRET=your_api_secret
-
+```
 ### 2. Run the bot:
 python binance_testnet_bot.py
 
